@@ -1,0 +1,80 @@
+[
+  {
+    "query": "Explain federated learning challenges in healthcare.",
+    "retrieved_chunks": [
+      {
+        "text": "which the authors explore how federated learning may provide a solution for the future of digital health, and highlight the challenges and considerations that need to be addressed. Recently, a collabo...",
+        "metadata": {
+          "chunk_id": 15,
+          "title": "Federated learning"
+        }
+      },
+      {
+        "text": "Federated learning (also known as collaborative learning) is a machine learning technique in a setting where multiple entities (often called clients) collaboratively train a model while keeping their ...",
+        "metadata": {
+          "title": "Federated learning",
+          "chunk_id": 0
+        }
+      },
+      {
+        "text": "the constraints of the machine learning application (e.g., available computing power, available memory, bandwidth). For instance, stochastically choosing a limited fraction C {\\displaystyle C} of node...",
+        "metadata": {
+          "title": "Federated learning",
+          "chunk_id": 7
+        }
+      }
+    ]
+  },
+  {
+    "query": "What are the main advantages of federated learning?",
+    "retrieved_chunks": [
+      {
+        "text": "Federated learning (also known as collaborative learning) is a machine learning technique in a setting where multiple entities (often called clients) collaboratively train a model while keeping their ...",
+        "metadata": {
+          "title": "Federated learning",
+          "chunk_id": 0
+        }
+      },
+      {
+        "text": "{x} _{1},\\dots ,\\mathbf {x} _{K}} converge to some common x {\\displaystyle \\mathbf {x} } at the end of the training process. Centralized federated learning In the centralized federated learning settin...",
+        "metadata": {
+          "chunk_id": 2,
+          "title": "Federated learning"
+        }
+      },
+      {
+        "text": "instead, the datasets are typically heterogeneous and their sizes may span several orders of magnitude. Moreover, the clients involved in federated learning may be unreliable as they are subject to mo...",
+        "metadata": {
+          "chunk_id": 1,
+          "title": "Federated learning"
+        }
+      }
+    ]
+  },
+  {
+    "query": "How does federated learning preserve privacy?",
+    "retrieved_chunks": [
+      {
+        "text": "Federated learning (also known as collaborative learning) is a machine learning technique in a setting where multiple entities (often called clients) collaboratively train a model while keeping their ...",
+        "metadata": {
+          "title": "Federated learning",
+          "chunk_id": 0
+        }
+      },
+      {
+        "text": "{x} _{1},\\dots ,\\mathbf {x} _{K}} converge to some common x {\\displaystyle \\mathbf {x} } at the end of the training process. Centralized federated learning In the centralized federated learning settin...",
+        "metadata": {
+          "chunk_id": 2,
+          "title": "Federated learning"
+        }
+      },
+      {
+        "text": "process. In 2017 and 2018, publications have emphasized the development of resource allocation strategies, especially to reduce communication requirements between nodes with gossip algorithms as well ...",
+        "metadata": {
+          "chunk_id": 13,
+          "title": "Federated learning"
+        }
+      }
+    ]
+  }
+]
